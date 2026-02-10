@@ -28,6 +28,9 @@ Aproxima el valor de una integral definida utilizando parábolas en lugar de lí
 * **Requisito:** El número de intervalos (n) debe ser obligatoriamente un número par.
 * **Ponderación:** Aplica pesos de 1, 4, 2 a los puntos evaluados para mejorar la precisión del área bajo la curva.
 
+  ### **Riemman.py: **
+  Cálculo de la integral definida mediante la Suma de Riemann por la izquierda, permitiendo aproximar el área bajo una curva dividiéndola en n rectángulos.
+
 
 
 ### 3. Aproximación de Funciones
